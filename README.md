@@ -19,7 +19,6 @@ Facilitator: Adreansyah Aswafi
 - Search Filter
 - Payment
 - Invoices PDF viewer
-- Custom 404 Not Found
 
 
 
