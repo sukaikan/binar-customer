@@ -8,8 +8,8 @@ _✨Binar Car Rental is your to-go car rental service you can count!_
 
 | Team   |      Role      |
 |----------|:-------------:|
-| Rifki Nur Hidayat (Rifki) |  Leader |
-| Lazuardyas Ligardi (Dias) |   Staff   |
+| Rifki Nur Hidayat (Rifki) |  Student |
+| Lazuardyas Ligardi (Dias) |   Student   |
 
 Facilitator: Adreansyah Aswafi
 
