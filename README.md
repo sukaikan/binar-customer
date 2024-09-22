@@ -6,6 +6,8 @@
 
 _✨Binar Car Rental is your to-go car rental service you can count!_
 
+Live Site: [https://binar-customer.vercel.app/](https://binar-customer.vercel.app/)
+
 | Team   |      Role      |
 |----------|:-------------:|
 | Rifki Nur Hidayat (Rifki) |  Student |
